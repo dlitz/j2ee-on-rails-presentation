@@ -1,0 +1,3 @@
+[submodule "myapp"]
+	path = myapp
+	url = https://github.com/dlitz/j2ee-on-rails-myapp.git
